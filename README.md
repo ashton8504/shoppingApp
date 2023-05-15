@@ -9,7 +9,7 @@ $ npm start
 
 This is a mobile shopping app that was built using HTML, CSS, JavaScript, and Firebase. The purpose of building this app was to further my learning of web development and database integration.
 
-I recently built a mobile shopping app using HTML, CSS, JavaScript, and Firebase to further my learning of web development. This project was a great opportunity for me to gain new skills and knowledge, and I'm excited to share what I learned with you.
+I built a mobile shopping app using HTML, CSS, JavaScript, and Firebase to further my learning of web development. This project was a great opportunity for me to gain new skills and knowledge, and I'm excited to share what I learned with you.
 
 One of the biggest things I learned from this project was how to use HTML and CSS to create the structure and design of a web app. I spent a lot of time tinkering with different layouts and styles until I found something that I was happy with. I also learned how to use JavaScript to add interactivity to my app, including handling user input and updating the DOM to reflect changes in data.
 
